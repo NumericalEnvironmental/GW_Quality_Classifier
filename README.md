@@ -8,7 +8,7 @@ This is python 2.7 script which reads, processes, and evaluates a large, multi-c
 
 The script is hard-wired to read and merge individual county data files from the California State Water Resources Control Board’s Groundwater Ambient Monitoring and Assessment Program (GAMA). GAMA is an online (http://geotracker.waterboards.ca.gov/gama/), publicly-accessible repository for groundwater water quality for both environmental monitoring wells and water supply wells, including municipal wells, private domestic wells, and agricultural wells. Kern, Kings, Tulare and Fresno counties were all included in an application of the script. Because the data files associated with these counties are large (exceeding 100 MB in two cases), users should download the data files separately from the GAMA access portal (http://geotracker.waterboards.ca.gov/gama/datadownload).
 
-More background information can be found here: (link coming soon)
+More background information can be found here: https://numericalenvironmental.wordpress.com/2017/03/08/another-python-script-for-exploring-a-multiparameter-groundwater-quality-data-set-san-joaquin-valley-ca/
 
 Email me with questions at walt.mcnab@gmail.com.
 
