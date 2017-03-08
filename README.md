@@ -1,4 +1,7 @@
 # GW_Quality_Classifier
+
+![Preview](https://numericalenvironmental.files.wordpress.com/2017/03/dcdt_avg.jpeg?w=1272&h=900)
+
 This is python 2.7 script which reads, processes, and evaluates a large, multi-county groundwater quality data set. The script employs the following libraries:
 
 * pandas, to read, merge, and pivot the data
